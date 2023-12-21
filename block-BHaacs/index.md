@@ -9,7 +9,7 @@
 Figure out the best possible view for the small screens.
 
 - Using CSS resets is necessary.
-
+ abcxyz
 - Use semantic tags and keep the nesting and indentation proper.
 
 - Pay attention to the codes, your code quality matters a lot.
